@@ -1,4 +1,6 @@
-# İçerikler 
+# Türkçe Github Copilot Eğitimi
+
+## İçerikler 
 
 Şöyle ufaktan bir taslak hazırlayalım burada, daha sonra bir arkadaş ile detaylandırıp örneklendireceğiz bunları. 
 
