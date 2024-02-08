@@ -13,7 +13,7 @@
 - Github Copilot Sidebar Chat Özelliği
 - Github Copilot İnline Chat Özelliği
 - Github Copilot Komutları
-- - Github Copilot \explaim Komutu
+- - Github Copilot \explain Komutu
 - - Github Copilot \fix komutu
 - - Github Copilot \tests komutu
 - Komut Mühendisliği Taktikleri
