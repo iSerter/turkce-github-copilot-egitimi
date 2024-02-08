@@ -1,5 +1,8 @@
 # İçerikler 
 
+Şöyle ufaktan bir taslak hazırlayalım burada, daha sonra bir arkadaş ile detaylandırıp örneklendireceğiz bunları. 
+
+
 - Github Copilot Abonelik ve Kurulum
 - - VS Code ve İntelliJ kurulumu
 - Github Copilot Güvenlik ve Gizlilik hk.
