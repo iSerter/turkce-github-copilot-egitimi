@@ -26,8 +26,8 @@
 - Komut Mühendisliği Taktikleri
 - - Net olmak, rol kullanımı, iletişim formatı, scope yönetimi, vs
 - Github Copilot Sesli Komut
-Ornek Proje Gelistirmeleri
-- Copilot ile 10dk da HTML/CSS Portfolio Sitesi.
-- Laravel ile sifirdan TODO uygulamasi.
-- NestJS ile sifirdan Blog uygulamasi
-- Sifir tecrube ile Python Django TODO uygulamasi
+- Ornek Proje Gelistirmeleri
+- - Copilot ile 10dk da HTML/CSS Portfolio Sitesi.
+- - Laravel ile sifirdan TODO uygulamasi.
+- - NestJS ile sifirdan Blog uygulamasi
+- - Sifir tecrube ile Python Django TODO uygulamasi
