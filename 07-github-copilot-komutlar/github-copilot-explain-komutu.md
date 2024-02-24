@@ -1,0 +1,3 @@
+Explain komutu, aktif belgedeki seçili kod parçasının ne yaptığını açıklamak için kullanılır. Bu komut, genellikle bir kod parçasının işlevselliğini anlamakta zorlanan geliştiricilere yardımcı olur. Bu, özellikle karmaşık veya belgelenmemiş kod parçalarıyla çalışırken yararlıdır.
+
+Bu komutun çalışabilmesi için genellikle bir dil hizmetinin veya bir uzantının yüklü olması gerekmektedir. Dil hizmeti veya uzantı, seçili kod parçasını analiz eder ve bir açıklama sağlar. Bu komutun kullanılabilirliği ve sağladığı açıklamanın detay seviyesi, kullanılan dil hizmetine veya uzantısına bağlıdır.

@@ -1,3 +1,5 @@
 Github Copilot hk. dökümanlar üretmek istiyorum. parça parça çalışalım. Lütfen "Github Copilot Güvenlik ve Gizlilik hk." için bana bilgi ver. mini bir eğitim hazırla markdown formatında. 
 
 
+- Pratik icin basic bir TODO app gelistirelim. 
+- "Hey code" feature

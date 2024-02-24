@@ -1,0 +1,29 @@
+# Yapay Zeka için Temel Prompt Mühendisliği
+YZ=Yapay Zeka.
+
+YZ'ya verilen komutlar (promptlar), AI'nin ne yapması gerektiğini anlamasında kritik bir role sahiptir. Etkili promptlar, istenen çıktıyı daha doğru ve verimli bir şekilde elde etmenizi sağlar.
+
+## Persona (Rol) Kullanımı
+
+- **Tanım**: YZ'ya bir kişilik veya belirli bir uzmanlık alanı atayarak, ondan alacağınız yanıtları bu persona üzerinden şekillendirmesini isteme yöntemidir.
+- **Kullanım**: YZ'ya komut verirken, "Bir tarih profesörü gibi düşün" veya "Bir sağlık uzmanı gibi tavsiye ver" gibi direktifler kullanabilirsiniz.
+- **Örnek**: `Bir bilim kurgu yazarı olarak, Mars'taki bir koloninin günlük yaşamını anlat.`
+
+## Net Direktifler Verme
+
+- **Tanım**: YZ'ya, ne yapması gerektiğini açık ve anlaşılır bir şekilde belirten komutlardır.
+- **Kullanım**: Komutunuzu verirken, AI'nin yapmasını istediğiniz eylemi net bir şekilde ifade edin. Belirsizlikten kaçının ve gerekirse adım adım talimatlar verin.
+- **Örnek**: `500 kelime kullanarak iklim değişikliğinin olası sonuçlarını detaylandır.`
+
+## Format Belirlemek
+
+- **Tanım**: YZ'dan almak istediğiniz çıktının formatını önceden belirleyerek, sonuçların belirli bir yapıda olmasını sağlamak.
+- **Kullanım**: Çıktıyı istediğiniz formatla ilgili direktifler ekleyin. Bu, liste, rapor, öykü, diyalog gibi farklı formatlar olabilir.
+- **Örnek**: `Üç maddelik bir liste halinde, sağlıklı yaşam için günlük rutinler öner.`
+
+## İpuçları
+
+- **Spesifik Olun**: Ne istediğinizi mümkün olduğunca detaylı ve açık bir şekilde belirtin.
+- **Kısa ve Öz Olun**: Komutunuzun uzunluğu arttıkça, AI'nin istediğinizi tam olarak anlaması zorlaşabilir. Gereksiz bilgileri çıkararak komutunuzu mümkün olduğunca netleştirin.
+- **Geri Bildirim Kullanın**: YZ'dan aldığınız yanıt size uygun değilse, geri bildirim vererek komutunuzu iyileştirin ve tekrar deneyin.
+- **Çoklu Soruları Bölme**: Karmaşık veya çoklu soruları bölerek, her biri için ayrı ayrı promptlar oluşturun. Bu, her bir soruya daha odaklanmış ve net cevaplar almanızı sağlar.
