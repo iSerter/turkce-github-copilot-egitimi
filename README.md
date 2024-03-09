@@ -23,9 +23,9 @@
 - - Github Copilot \tests komutu
 - Github Copilot CLI
 - - Github Copilot CLI aracı
-- Komut Mühendisliği Taktikleri
+- İstem (Prompt) Mühendisliği Taktikleri
 - - Net olmak, rol kullanımı, iletişim formatı, scope yönetimi, vs
-- Github Copilot Sesli Komut
+- Github Copilot Sesli Kullanma
 - Ornek Proje Gelistirmeleri
 - - Copilot ile 10dk da HTML/CSS Portfolio Sitesi.
 - - Laravel ile sifirdan TODO uygulamasi.
