@@ -4,7 +4,7 @@ GitHub Copilot, kod önerilerini oluştururken mevcut kod bağlamını kullanır
 
 1. **Açık Dosyalar**: Copilot, açık dosyalarınızdaki kodu analiz eder. Bu, projenizin genel bağlamını anlamasına yardımcı olur. Örneğin, bir web uygulaması geliştiriyorsanız ve Express.js ile ilgili bir dosyanız açıksa, Copilot bu bilgiyi kullanarak Express.js ile ilgili önerilerde bulunabilir.
 
-2. **Mevcut Kod**: Copilot, aktif olarak üzerinde çalıştığınız dosyadaki kodu analiz eder. Bu, özellikle fonksiyonlar, sınıflar ve değişkenler gibi sembollerin tanımlarını ve kullanımlarını içerir. Örneğin, bir `calculateDaysBetweenDates(begin, end)` fonksiyonu yazıyorsanız, Copilot bu bilgiyi kullanarak bu fonksiyonun muhtemel bir uygulamasını önerir.
+2. **Aktif Döküman**: Copilot, aktif olarak üzerinde çalıştığınız dosyadaki kodu analiz eder. Bu, özellikle fonksiyonlar, sınıflar ve değişkenler gibi sembollerin tanımlarını ve kullanımlarını içerir. Örneğin, bir `calculateDaysBetweenDates(begin, end)` fonksiyonu yazıyorsanız, Copilot bu bilgiyi kullanarak bu fonksiyonun muhtemel bir uygulamasını önerir.
 
 3. **Yorumlar**: Copilot, kodunuzdaki yorumları da analiz eder. Bu, genellikle bir fonksiyonun ne yaptığını veya bir değişkenin ne için kullanıldığını açıklar. Örneğin, bir fonksiyonun üzerinde "Bu fonksiyon, iki tarih arasındaki gün sayısını hesaplar" şeklinde bir yorum varsa, Copilot bu bilgiyi kullanarak bu fonksiyonun muhtemel bir uygulamasını önerir.
 
